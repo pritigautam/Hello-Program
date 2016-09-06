@@ -19,3 +19,5 @@ TU_SMS_INVALID_PRODUCT_COMPATIBLE|Hej, det här värdebeviset är inte giltigt f
 TU_SMS_INVALID_VOUCHER|Hej, det här värdebeviset är redan använt. Du kan enkelt registrera ditt nummer genom www.hallon.se/kontantkort för att fylla på via Mina sidor. Mvh hallon.se|The requested voucher code is unavailable or used by someone.
 TU_SMS_SUCCESS|The given voucher code is successfully assigned.|The voucher code is valid and assigned successfully.This is not used in application
 TU_SMS_FAILED|Hej, p.g.a. ett tekniskt fel har vi inte kunnat genomföra din beställning. Försök gärna igen, annars kontakta kundservice. Mvh hallon.se|The voucher code is valid but its failed to assign campaign.
+
+doing test
