@@ -1,4 +1,4 @@
-TEMPLATE_NAME|TEMPLATE_CONTENT|DESCRIPTION
+﻿TEMPLATE_NAME|TEMPLATE_CONTENT|DESCRIPTION
 SOAP_CONNECTIVITY_ISSUE|Hej, p.g.a. ett tekniskt fel har vi inte kunnat genomföra din beställning. Försök gärna igen, annars kontakta kundservice. Mvh hallon.se|The requested operation was failed due to soap connectivity issue
 SMS_INVALID_PHONE_NUMBER|Hej, du har angett en inkorrekt USSD-kod. Mvh hallon.se|The requested customer phonenumber is not valid
 SMS_INVALID_PERSON_NUMBER|Hej, ditt abonnemang är inte registrerat och därför är det inte möjligt att köpa extra data. Du kan enkelt registrera ditt nummer genom www.hallon.se/registrera. Mvh hallon.se|The requested customer personnumber is not valid
@@ -21,3 +21,9 @@ TU_SMS_SUCCESS|The given voucher code is successfully assigned.|The voucher code
 TU_SMS_FAILED|Hej, p.g.a. ett tekniskt fel har vi inte kunnat genomföra din beställning. Försök gärna igen, annars kontakta kundservice. Mvh hallon.se|The voucher code is valid but its failed to assign campaign.
 
 doing test
+Doing Clone test..check and then 
+let see
+jkfk
+jfkdjfj
+dk
+g
